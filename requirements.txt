@@ -1,6 +1,0 @@
-sphinx
-sphinx-autobuild
-sphinx_markdown_tables
-myst-parser
-insegel
-furo

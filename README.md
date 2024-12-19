@@ -1,3 +1,0 @@
-# Docs
-
-CutefishOS documentation
